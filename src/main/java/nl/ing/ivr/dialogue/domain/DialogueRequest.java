@@ -1,11 +1,11 @@
 package nl.ing.ivr.dialogue.domain;
 
-public class QuestionRequest {
+public class DialogueRequest {
 
     private final String query;
     private final Channel channel;
 
-    public QuestionRequest(final String query, final Channel channel) {
+    public DialogueRequest(final String query, final Channel channel) {
         this.query = query;
         this.channel = channel;
     }
