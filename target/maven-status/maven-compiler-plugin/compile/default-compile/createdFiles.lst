@@ -1,0 +1,6 @@
+nl\ing\ivr\dialogue\controller\DialogueController.class
+nl\ing\ivr\dialogue\domain\QuestionResponse.class
+nl\ing\ivr\dialogue\application\DialogueApplication.class
+nl\ing\ivr\dialogue\controller\AnswerController.class
+nl\ing\ivr\dialogue\domain\Channel.class
+nl\ing\ivr\dialogue\domain\QuestionRequest.class
